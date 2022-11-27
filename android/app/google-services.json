@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232029214516",
+    "project_id": "yikes-28cde",
+    "storage_bucket": "yikes-28cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232029214516:android:cd81b3e00968dc2f38f761",
+        "android_client_info": {
+          "package_name": "com.example.yikes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232029214516-38v15u44o7nc2nr6tbockl9hc428q02e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9JK4B0F_Rb-KZwOSyImMcURkvsgHmQyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232029214516-38v15u44o7nc2nr6tbockl9hc428q02e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
